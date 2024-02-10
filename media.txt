@@ -1,8 +1,0 @@
-MK12/Content/WwiseAudio/Generated/Media
-MK12/Content/WwiseAudio/Generated/Media/English(US)
-MK12/Content/WwiseAudio/Generated/Media/French(France)
-MK12/Content/WwiseAudio/Generated/Media/German
-MK12/Content/WwiseAudio/Generated/Media/Italian
-MK12/Content/WwiseAudio/Generated/Media/Portuguese(Brazil)
-MK12/Content/WwiseAudio/Generated/Media/Spanish(Mexico)
-MK12/Content/WwiseAudio/Generated/Media/Spanish(Spain)

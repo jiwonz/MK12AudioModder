@@ -5,5 +5,8 @@
 /ffmpeg.exe
 /oo2core_9_win64.dll
 /wwiser.exe
+/media.txt
 Projects
-test
+obj
+bin/Debug
+pypy
